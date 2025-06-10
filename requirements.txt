@@ -64,7 +64,7 @@ pytz==2022.1
     # via
     #   babel
     #   lektor
-requests==2.27.1
+requests==2.32.4
     # via
     #   lektor
     #   lektor-twitter-embed
