@@ -2,6 +2,6 @@ lektor==3.3.12
 lektor-nl2br==0.2.0
 lektor-twitter-embed==0.2.0
 lektor-youtube-embed==0.2.0
-marshmallow==3.26.1
+marshmallow==3.26.2
 python-slugify==8.0.4
 Pillow==12.0.0
