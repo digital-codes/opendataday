@@ -48,10 +48,8 @@ mistune==0.8.4
     # via lektor
 packaging==21.3
     # via marshmallow
-pillow==12.0.0
+pillow==12.1.1
     # via -r requirements.in
-pip==25.3
-    # via lektor
 pyparsing==3.0.8
     # via packaging
 python-slugify==8.0.4
@@ -66,8 +64,6 @@ requests==2.27.1
     # via
     #   lektor
     #   lektor-twitter-embed
-setuptools==80.9.0
-    # via lektor
 text-unidecode==1.3
     # via python-slugify
 urllib3==1.26.9
